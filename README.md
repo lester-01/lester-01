@@ -41,8 +41,8 @@ Everything else I am working on, including private projects, is on **[projects.b
 
 Freelancing through **Prinx Creatives** — available for freelance projects, consulting, and full-time remote/hybrid roles.
 
-🌐 https://benlester.me (contact details are on my site)  
-💼 https://benlester.me/linkedin
+Website: https://benlester.me (contact details are on my site)  
+LinkedIn: https://benlester.me/linkedin
 
 ---
 
