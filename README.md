@@ -23,7 +23,7 @@ Everything else I am working on, including private projects, is on **[projects.b
 
 ### What I work with
 
-**Languages:** Go · Python · JavaScript · PHP · Java · Bash · C/C++
+**Languages:** Go · Python · JavaScript · TypeScript · Java · Kotlin · PHP · Bash · C/C++
 
 **Frontend:** React · Next.js · Node.js · Tailwind CSS · Bootstrap
 
