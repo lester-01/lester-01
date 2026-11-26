@@ -8,6 +8,19 @@ Four years as the sole engineer on a 4G mobile proxy SaaS platform: Android app,
 
 ---
 
+### Selected work
+
+- **[Jasiri](https://jasiri.benlester.me)** ([repo](https://github.com/lester-01/jasiri)): an AI assistant and a full Linux terminal on an Android phone. Closed source, sideloaded.
+- **[Jasiri apt repository](https://github.com/lester-01/jasiri-apt)**: a public apt repository with downloadable Linux package releases for Jasiri.
+- **[SINC Student CRM](https://sinc-crm.benlester.me)** ([repo](https://github.com/lester-01/sinc_crm)): React, Cloudflare Workers and Supabase CRM with a live demo.
+- **[SignalStack](https://github.com/lester-01/signalstack)**: a Go WebSocket server with a Next.js client, with tests and a load-test harness. Runs locally.
+- **[ProxyHut](https://proxyhut.benlester.me)** ([repo](https://github.com/lester-01/proxyhut)): residential and mobile proxies on hardware you control.
+- **[Fineract and Rafiki bridge](https://fineract-rafiki.benlester.me)** ([repo](https://github.com/lester-01/fineract-rafiki-bridge-showcase)): a bank ledger connected to Open Payments (case study).
+
+Everything else I am working on, including private projects, is on **[projects.benlester.me](https://projects.benlester.me)** ([repo](https://github.com/lester-01/what-am-building)).
+
+---
+
 ### What I work with
 
 **Languages:** Go · Python · JavaScript · PHP · Java · Bash · C/C++
@@ -28,8 +41,7 @@ Four years as the sole engineer on a 4G mobile proxy SaaS platform: Android app,
 
 Freelancing through **Prinx Creatives** — available for freelance projects, consulting, and full-time remote/hybrid roles.
 
-📧 contact@benlester.me  
-🌐 https://benlester.me  
+🌐 https://benlester.me (contact details are on my site)  
 💼 https://benlester.me/linkedin
 
 ---
